@@ -1,0 +1,27 @@
+{
+	"partList": [
+		{
+			"uuid": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+			"name": "obj_interactive_logicgate",
+			"legacyId": 119,
+			"renderable": "$CONTENT_DATA/Objects/Renderable/obj_interactive_logicgate.rend",
+			"color": "df7f01",
+			"box": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"logic": {},
+			"rotationSet": "PropYZ",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 2,
+				"durability": 3,
+				"friction": 5,
+				"buoyancy": 2
+			},
+			"flammable": false,
+			"stackSize": 10
+		}
+	]
+}
